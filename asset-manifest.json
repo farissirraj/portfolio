@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.c353c18c.css",
-    "main.js": "/portfolio/static/js/main.6c6be510.js",
+    "main.js": "/portfolio/static/js/main.a631775a.js",
     "static/js/453.ad7768ec.chunk.js": "/portfolio/static/js/453.ad7768ec.chunk.js",
     "static/media/photo.JPG": "/portfolio/static/media/photo.a0c2c342a24676275d08.JPG",
-    "static/media/ros-ecal.png": "/portfolio/static/media/ros-ecal.6d5044645b16653b28e1.png",
-    "static/media/ota.png": "/portfolio/static/media/ota.caf68544cd93a0279e5a.png",
+    "static/media/ota.png": "/portfolio/static/media/ota.500b241128fb99b71f4f.png",
+    "static/media/ros-ecal.png": "/portfolio/static/media/ros-ecal.4a2cb3b0f2caf9349e5a.png",
     "static/media/bu.png": "/portfolio/static/media/bu.a71a2bc366a0e7cb6998.png",
     "static/media/watcher.png": "/portfolio/static/media/watcher.061c2e16e12e5035cc9a.png",
     "static/media/edge.jpg": "/portfolio/static/media/edge.aac1268f37c9e0767ccc.jpg",
@@ -15,11 +15,11 @@
     "static/media/curium-logo.png": "/portfolio/static/media/curium-logo.61ad090a52264dc1059e.png",
     "index.html": "/portfolio/index.html",
     "main.c353c18c.css.map": "/portfolio/static/css/main.c353c18c.css.map",
-    "main.6c6be510.js.map": "/portfolio/static/js/main.6c6be510.js.map",
+    "main.a631775a.js.map": "/portfolio/static/js/main.a631775a.js.map",
     "453.ad7768ec.chunk.js.map": "/portfolio/static/js/453.ad7768ec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c353c18c.css",
-    "static/js/main.6c6be510.js"
+    "static/js/main.a631775a.js"
   ]
 }

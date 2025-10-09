@@ -1,10 +1,11 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { FaGraduationCap, FaBriefcase } from 'react-icons/fa';
+import { FaGraduationCap, FaBriefcase, FaTrophy } from 'react-icons/fa';
 import './About.css';
 import curiumLogo from '../curium-logo.png';
 import buLogo from '../bu.png';
 import nusLogo from '../nus.jpg';
+import ieeeLogo from '../IEEE-Logo.jpg'
 
 const About = () => {
   return (
@@ -136,10 +137,8 @@ const About = () => {
                   <p>Robotics and Autonomous Systems.</p>
                 </div>
               </div>
-            </div>
-            <div className="timeline">
               <div className="timeline-item">
-                {/* <div className="timeline-date">2017 - 2021</div> */}
+                <div className="timeline-date">2017 - 2021</div>
                 <div className="timeline-content">
                     <div className="NUS-logo">
                         <img 
@@ -151,6 +150,35 @@ const About = () => {
                   <h4>Bachelor's of Engineering</h4>
                   <p>National University of Singapore</p>
                   <p>Computer Engineering with a specialisation in Robotics.</p>
+                </div>
+              </div>
+            </div>
+          </motion.div>
+
+          <motion.div
+            className="detail-section"
+            initial={{ opacity: 0, y: 30 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.6, delay: 1.0 }}
+            viewport={{ once: true }}
+          >
+            <div className="detail-header">
+              <FaTrophy className="detail-icon" />
+              <h3>Awards</h3>
+            </div>
+            <div className="timeline">
+              <div className="timeline-item">
+                <div className="timeline-date">2025</div>
+                <div className="timeline-content">
+                  <div className="NUS-logo">
+                      <img 
+                      src={ieeeLogo} 
+                      alt="IEEE Logo" 
+                      className="NUS-logo-img"
+                      />
+                  </div>
+                  <h4>IEEE Control Systems Chapter Prize</h4>
+                  <p>Awarded for my research in LiDAR Calibration</p>
                 </div>
               </div>
             </div>

@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.c353c18c.css",
-    "main.js": "/portfolio/static/js/main.a631775a.js",
+    "main.css": "/portfolio/static/css/main.5855544e.css",
+    "main.js": "/portfolio/static/js/main.80afd39f.js",
     "static/js/453.ad7768ec.chunk.js": "/portfolio/static/js/453.ad7768ec.chunk.js",
     "static/media/photo.JPG": "/portfolio/static/media/photo.a0c2c342a24676275d08.JPG",
     "static/media/ota.png": "/portfolio/static/media/ota.500b241128fb99b71f4f.png",
@@ -13,13 +13,14 @@
     "static/media/cutrack.jpg": "/portfolio/static/media/cutrack.74ed18f6a67d1ab146f8.jpg",
     "static/media/lidar_calib.png": "/portfolio/static/media/lidar_calib.7e2da4a34f5d249702a2.png",
     "static/media/curium-logo.png": "/portfolio/static/media/curium-logo.61ad090a52264dc1059e.png",
+    "static/media/IEEE-Logo.jpg": "/portfolio/static/media/IEEE-Logo.bda795497a01ab5d466b.jpg",
     "index.html": "/portfolio/index.html",
-    "main.c353c18c.css.map": "/portfolio/static/css/main.c353c18c.css.map",
-    "main.a631775a.js.map": "/portfolio/static/js/main.a631775a.js.map",
+    "main.5855544e.css.map": "/portfolio/static/css/main.5855544e.css.map",
+    "main.80afd39f.js.map": "/portfolio/static/js/main.80afd39f.js.map",
     "453.ad7768ec.chunk.js.map": "/portfolio/static/js/453.ad7768ec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c353c18c.css",
-    "static/js/main.a631775a.js"
+    "static/css/main.5855544e.css",
+    "static/js/main.80afd39f.js"
   ]
 }

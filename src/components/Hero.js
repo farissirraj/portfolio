@@ -54,7 +54,7 @@ const Hero = () => {
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.8, duration: 0.8 }}
           >
-            M.S Robotics @ <b>Boston University</b><br />
+            M.S Robotics & Autonomous Systems @ <b>Boston University</b><br />
             Ex-Robotic Software Engineer @ Curium, Singapore<br />
             Computer Engineering @ <b>National University of Singapore</b><br />
             LiDARs, Perception, Edge Autonomy<br />

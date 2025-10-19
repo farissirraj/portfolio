@@ -2,7 +2,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { FaGithub, FaLinkedin, FaEnvelope, FaDownload } from 'react-icons/fa';
 import './Hero.css';
-import photoImage from '../photo.JPG';
+import photoImage from '../image.png';
 
 const Hero = () => {
   const scrollToSection = (sectionId) => {

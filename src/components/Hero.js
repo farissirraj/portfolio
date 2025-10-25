@@ -3,6 +3,7 @@ import { motion } from 'framer-motion';
 import { FaGithub, FaLinkedin, FaEnvelope, FaDownload } from 'react-icons/fa';
 import './Hero.css';
 import photoImage from '../image.png';
+import resumePdf from '../FarisSirraj_Resume.pdf';
 
 const Hero = () => {
   const scrollToSection = (sectionId) => {
@@ -95,7 +96,7 @@ const Hero = () => {
             <a href="mailto:farish.sirraj@gmail.com">
               <FaEnvelope />
             </a>
-            <a href="/resume.pdf" download>
+            <a href={resumePdf} download>
               <FaDownload />
             </a>
           </motion.div>

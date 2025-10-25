@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.5855544e.css",
-    "main.js": "/portfolio/static/js/main.1aea0557.js",
+    "main.css": "/portfolio/static/css/main.73d3dc40.css",
+    "main.js": "/portfolio/static/js/main.b025cb39.js",
     "static/js/453.ad7768ec.chunk.js": "/portfolio/static/js/453.ad7768ec.chunk.js",
     "static/media/image.png": "/portfolio/static/media/image.3817d30986cb91e8db8d.png",
     "static/media/ota.png": "/portfolio/static/media/ota.500b241128fb99b71f4f.png",
     "static/media/ros-ecal.png": "/portfolio/static/media/ros-ecal.4a2cb3b0f2caf9349e5a.png",
-    "static/media/bu.png": "/portfolio/static/media/bu.a71a2bc366a0e7cb6998.png",
+    "static/media/bu.png": "/portfolio/static/media/bu.52a0e1bb495808b63b18.png",
     "static/media/watcher.png": "/portfolio/static/media/watcher.061c2e16e12e5035cc9a.png",
     "static/media/edge.jpg": "/portfolio/static/media/edge.aac1268f37c9e0767ccc.jpg",
     "static/media/nus.jpg": "/portfolio/static/media/nus.f0326d857929619b7eac.jpg",
     "static/media/cutrack.jpg": "/portfolio/static/media/cutrack.74ed18f6a67d1ab146f8.jpg",
     "static/media/lidar_calib.png": "/portfolio/static/media/lidar_calib.7e2da4a34f5d249702a2.png",
+    "static/media/FarisSirraj_Resume.pdf": "/portfolio/static/media/FarisSirraj_Resume.5aa42316eaf0222f1e8f.pdf",
     "static/media/curium-logo.png": "/portfolio/static/media/curium-logo.61ad090a52264dc1059e.png",
     "static/media/IEEE-Logo.jpg": "/portfolio/static/media/IEEE-Logo.bda795497a01ab5d466b.jpg",
     "index.html": "/portfolio/index.html",
-    "main.5855544e.css.map": "/portfolio/static/css/main.5855544e.css.map",
-    "main.1aea0557.js.map": "/portfolio/static/js/main.1aea0557.js.map",
+    "main.73d3dc40.css.map": "/portfolio/static/css/main.73d3dc40.css.map",
+    "main.b025cb39.js.map": "/portfolio/static/js/main.b025cb39.js.map",
     "453.ad7768ec.chunk.js.map": "/portfolio/static/js/453.ad7768ec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5855544e.css",
-    "static/js/main.1aea0557.js"
+    "static/css/main.73d3dc40.css",
+    "static/js/main.b025cb39.js"
   ]
 }

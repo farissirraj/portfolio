@@ -170,11 +170,11 @@ const About = () => {
               <div className="timeline-item">
                 <div className="timeline-date">2025</div>
                 <div className="timeline-content">
-                  <div className="NUS-logo">
+                  <div className="IEEE-logo">
                       <img 
                       src={ieeeLogo} 
                       alt="IEEE Logo" 
-                      className="NUS-logo-img"
+                      className="IEEE-logo-img"
                       />
                   </div>
                   <h4>IEEE Control Systems Chapter Prize</h4>

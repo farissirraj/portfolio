@@ -138,7 +138,7 @@ const About = () => {
                 </div>
               </div>
               <div className="timeline-item">
-                <div className="timeline-date">2017 - 2021</div>
+                <div className="timeline-date">2021 - 2025</div>
                 <div className="timeline-content">
                     <div className="NUS-logo">
                         <img 

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.73d3dc40.css",
-    "main.js": "/portfolio/static/js/main.b025cb39.js",
+    "main.js": "/portfolio/static/js/main.07355fc1.js",
     "static/js/453.ad7768ec.chunk.js": "/portfolio/static/js/453.ad7768ec.chunk.js",
     "static/media/image.png": "/portfolio/static/media/image.3817d30986cb91e8db8d.png",
     "static/media/ota.png": "/portfolio/static/media/ota.500b241128fb99b71f4f.png",
@@ -17,11 +17,11 @@
     "static/media/IEEE-Logo.jpg": "/portfolio/static/media/IEEE-Logo.bda795497a01ab5d466b.jpg",
     "index.html": "/portfolio/index.html",
     "main.73d3dc40.css.map": "/portfolio/static/css/main.73d3dc40.css.map",
-    "main.b025cb39.js.map": "/portfolio/static/js/main.b025cb39.js.map",
+    "main.07355fc1.js.map": "/portfolio/static/js/main.07355fc1.js.map",
     "453.ad7768ec.chunk.js.map": "/portfolio/static/js/453.ad7768ec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.73d3dc40.css",
-    "static/js/main.b025cb39.js"
+    "static/js/main.07355fc1.js"
   ]
 }

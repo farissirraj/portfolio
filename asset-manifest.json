@@ -1,13 +1,16 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.73d3dc40.css",
-    "main.js": "/portfolio/static/js/main.07355fc1.js",
+    "main.js": "/portfolio/static/js/main.471950f5.js",
     "static/js/453.ad7768ec.chunk.js": "/portfolio/static/js/453.ad7768ec.chunk.js",
     "static/media/image.png": "/portfolio/static/media/image.3817d30986cb91e8db8d.png",
     "static/media/ota.png": "/portfolio/static/media/ota.500b241128fb99b71f4f.png",
     "static/media/ros-ecal.png": "/portfolio/static/media/ros-ecal.4a2cb3b0f2caf9349e5a.png",
     "static/media/bu.png": "/portfolio/static/media/bu.52a0e1bb495808b63b18.png",
+    "static/media/pots.jpg": "/portfolio/static/media/pots.d7373e4147c0194c16c8.jpg",
+    "static/media/pixels2poses.png": "/portfolio/static/media/pixels2poses.ce1bb964ae79769712f6.png",
     "static/media/watcher.png": "/portfolio/static/media/watcher.061c2e16e12e5035cc9a.png",
+    "static/media/cross-modal.png": "/portfolio/static/media/cross-modal.a9ce6a63d041ce435388.png",
     "static/media/edge.jpg": "/portfolio/static/media/edge.aac1268f37c9e0767ccc.jpg",
     "static/media/nus.jpg": "/portfolio/static/media/nus.f0326d857929619b7eac.jpg",
     "static/media/cutrack.jpg": "/portfolio/static/media/cutrack.74ed18f6a67d1ab146f8.jpg",
@@ -17,11 +20,11 @@
     "static/media/IEEE-Logo.jpg": "/portfolio/static/media/IEEE-Logo.bda795497a01ab5d466b.jpg",
     "index.html": "/portfolio/index.html",
     "main.73d3dc40.css.map": "/portfolio/static/css/main.73d3dc40.css.map",
-    "main.07355fc1.js.map": "/portfolio/static/js/main.07355fc1.js.map",
+    "main.471950f5.js.map": "/portfolio/static/js/main.471950f5.js.map",
     "453.ad7768ec.chunk.js.map": "/portfolio/static/js/453.ad7768ec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.73d3dc40.css",
-    "static/js/main.07355fc1.js"
+    "static/js/main.471950f5.js"
   ]
 }

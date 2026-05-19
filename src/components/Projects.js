@@ -8,21 +8,22 @@ import watcher from '../watcher.png';
 import ota from '../ota.png';
 import edge from '../edge.jpg';
 import ros_ecal from '../ros-ecal.png';
+import pots from '../pots.jpg';
+import crossModal from '../cross-modal.png';
+import pixels2poses from '../pixels2poses.png';
 
 const Projects = () => {
   const projects = [
     {
-      id: 1,
-      title: "CuTrack",
-      description: "Collaboratively built a real-time system for detecting and tracking humans in 3D LiDAR point clouds, optimized for deployment on NVIDIA Jetson boards to enable efficient edge computing.",
-      image: cutrack,
-      technologies: ["Open3D", "ROS", "Docker", "Nvidia Jetsons", "LiDARs", "Python"],
-    //   github: "https://github.com/yourusername/ecommerce",
-    //   live: "https://ecommerce-demo.com",
+      id: 7,
+      title: "Active Compression Device for POTS",
+      description: "Developed an active compression device for postural orthostatic tachycardia syndrome (POTS) with adaptive pneumatic actuation and rehabilitative control using Arduino.",
+      image: pots,
+      technologies: ["Arduino", "Rehabilitative Robotics", "Pneumatic Actuation"],
       featured: true
     },
     {
-      id: 2,
+      id: 1,
       title: "Targetless LiDAR Calibration Pipeline Using Human Detection and Motion",
       description: "A calibration pipeline that leverages human detections and motions in 3D LiDAR point clouds, removing the need for physical targets.",
       image: lidarCalib,
@@ -31,6 +32,36 @@ const Projects = () => {
       // live: "https://task-manager-demo.com",
       featured: true,
       className: "img-shift"
+    },
+    {
+      id: 1,
+      title: "From Pixels to Poses:  Understanding Camera Pose Regression",
+      description: "Estimating 6-DoF camera pose from a single monocular image by studying the absolute camera pose regression across indoor and outdoor environments using APR-style models on the Microsoft 7-Scenes and Extended Cambridge Landmarks datasets.",
+      image: pixels2poses,
+      // technologies: ["Open3D", "ROS", "Docker", "Loss Based Optimisation", "Python"],
+      technologies: [],
+      // github: "https://github.com/yourusername/task-manager",
+      // live: "https://task-manager-demo.com",
+      featured: false,
+      className: "img-shift"
+    },
+    {
+      id: 8,
+      title: "LiDAR Supervised Cross-Modal Pose Estimation from Stereo Images",
+      description: "Cross-modal pose estimation system leveraging LiDAR supervision for improved accuracy in stereo image-based pose prediction.",
+      image: crossModal,
+      technologies: ["Open3D", "PyTorch"],
+      featured: false
+    },
+    {
+      id: 2,
+      title: "CuTrack",
+      description: "Collaboratively built a real-time system for detecting and tracking humans in 3D LiDAR point clouds, optimized for deployment on NVIDIA Jetson boards to enable efficient edge computing.",
+      image: cutrack,
+      technologies: ["Open3D", "ROS", "Docker", "Nvidia Jetsons", "LiDARs", "Python"],
+    //   github: "https://github.com/yourusername/ecommerce",
+    //   live: "https://ecommerce-demo.com",
+      featured: false
     },
     {
       id: 3,
